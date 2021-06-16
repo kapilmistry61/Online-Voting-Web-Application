@@ -30,7 +30,7 @@ Tools & Server :-
 
 ## Images of online voting system project (web application) :-
 
-- Login page also home page . 
+- Welcome screen . 
 
 ![login page](https://user-images.githubusercontent.com/54209560/78211400-76965180-74ca-11ea-9b53-650a35a7dd06.jpg)
 
@@ -38,16 +38,16 @@ Tools & Server :-
 
 ![login faild](https://user-images.githubusercontent.com/54209560/78211748-806c8480-74cb-11ea-8e23-185dcf3e4ed5.jpg)
 
-- Register page also like home page .
+- Register .
 
 ![register page](https://user-images.githubusercontent.com/54209560/78211945-0c7eac00-74cc-11ea-8c1e-f8edfb8133f2.jpg)
 
 
-- Registration completed successfully message page .
+- Registration completed successfully message .
 
 ![more](https://user-images.githubusercontent.com/54209560/78212296-e9a0c780-74cc-11ea-8887-d58933d810b8.jpg)
 
-- Login successfully page also voting page .
+- Login successfully .
 
 ![voting page](https://user-images.githubusercontent.com/54209560/78212465-7055a480-74cd-11ea-8022-c24195efd008.jpg)
 
@@ -55,23 +55,19 @@ Tools & Server :-
 
 ![voting error](https://user-images.githubusercontent.com/54209560/78212684-16091380-74ce-11ea-9eff-c538aa4229cd.jpg)
 
-- If user vote successfully then user can see thank you page with We have received your vote message.  .
+- If user vote successfully then user can see thank you msg.  .
 
 ![thank](https://user-images.githubusercontent.com/54209560/78212878-b8c19200-74ce-11ea-9f6d-ec25f14f3a23.jpg)
 
-- Terms & Conditions page for fair voting this is important part  of this project .
-
-![terms](https://user-images.githubusercontent.com/54209560/78213124-4e5d2180-74cf-11ea-980e-460537369569.jpg)
-
-- Contact us page for sending advice & message for admin .
+- Contact us for sending advice & message for admin .
 
 ![contactus](https://user-images.githubusercontent.com/54209560/78213288-e0fdc080-74cf-11ea-94c2-160ad7fbb21c.jpg)
 
-- About us page look like this .
+- About us look like this .
 
 ![about us](https://user-images.githubusercontent.com/54209560/78213413-320db480-74d0-11ea-9310-2b06004ece5d.jpg)
 
-- Admin page in this page only admin can login for checking result of online voting.
+- Admin session in this only admin can login for checking result of online voting.
 
 ![admin](https://user-images.githubusercontent.com/54209560/78213471-641f1680-74d0-11ea-892d-80ae95d82b62.jpg)
 
